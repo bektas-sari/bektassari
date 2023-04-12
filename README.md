@@ -1,2 +1,5 @@
-# bektassari
-About me...
+- Hi, I'm @bektas-sari
+- I'm interested in artificial intelligence, python and data science. 
+- I'm a PhD. candidate (advertising)
+- I'm learning Django framework
+- You can contact with me: bektas.sari@gmail.com
